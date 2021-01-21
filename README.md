@@ -9,15 +9,15 @@ Desenvolvimento de uma API de Produtos para fins de estudo/aplicação dos conce
 - Documentação com OpenApi (Swagger2)
 - MySQL
 
-## 💬Sobre a autenticação
-- Geração token no Postman
+## 💬Sobre a autenticação <br><br>
+- Geração token no Postman<br><br>
 ![Imagem layout](https://github.com/magnamoz/api-produtos/blob/main/postmanAuthorization.PNG)
 
 ![Imagem layout](https://github.com/magnamoz/api-produtos/blob/main/postmanBody.PNG)
 
-- Inserção token na documentação 
+- Inserção token na documentação <br><br>
 ![Imagem layout](https://github.com/magnamoz/api-produtos/blob/main/openApi.PNG)
 
 ## 💬Sobre a documentação
-Para poder testar os endpoints é preciso digitar Bearer + token gerado
+Para poder testar os endpoints é preciso digitar Bearer + token gerado <br>
 Acessada em: http://localhost:8080/swagger-ui.html#/
