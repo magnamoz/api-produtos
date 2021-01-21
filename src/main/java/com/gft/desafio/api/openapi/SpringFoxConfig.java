@@ -34,7 +34,7 @@ public class SpringFoxConfig implements WebMvcConfigurer{
 	public ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
 				.title("Desafio Api")
-				.description("Desafio Api realizado tendo como base o curso de Desenvolvimento de Api da Algaworks")
+				.description("Desenvolvida API de Produtos")
 				.version("1")
 				.contact(new Contact("Magna", "https://git.gft.com/maoz", "maoz@gft.com"))
 				.build();
